@@ -1,0 +1,16 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosanstc.css);
+body {
+    font-family: ‘Noto Sans TC’, sans-serif;
+}
+
+.header {
+    background-color: #50575f;
+    color: #c3cacd;
+    text-align: center;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 2.5rem;
+    font-weight: 500;
+    font-size: 1.5rem;
+}
